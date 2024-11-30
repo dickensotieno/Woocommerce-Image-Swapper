@@ -1,7 +1,6 @@
 === Woocommerce Image Swapper ===
 Contributors: adoncreatives, dickensayiekos
-Tags: woocommerce, cart, checkout, e-commerce, ecommerce, editor, field, manager, order, shipping, store
-Donate link: https://dictrithemes.com/donate/
+Tags: woocommerce, cart, checkout, e-commerce, store
 Requires at least: 6.5.0
 Tested up to: 6.6.2
 Stable tag: 1.7
@@ -14,7 +13,7 @@ Woocommerce Image swapper adds second image to WooCommerce product archives from
 WC Image swapper adds secondary image to WooCommerce product archives from products gallery on hover. Perfect for displaying front/back shots of clothing, bags, digital goods and other products.
 
 SUPPORT:
-We value our plugin users, don’t hesitate to contact us here https://dictrithemes.com/plugins-support/ if you require any assistance and remember to select the name of the plugin. We will try our best to reply within the shortest time possible.
+We value our plugin users, don’t hesitate to contact us here https://wordpress.org/support/plugin/wc-image-swapper/ if you require any assistance and remember to select the name of the plugin. We will try our best to reply within the shortest time possible.
 
 
 == Installation ==
