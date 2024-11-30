@@ -1,11 +1,11 @@
 <?php
 /**
 Plugin Name: Woocommerce Image Swapper
-Plugin URI: https://dictrithemes.com
+Plugin URI: https://wordpress.org/plugins/wc-image-swapper/
 Version: 1.7
 Description: Woocommerce Image swapper adds secondary image to WooCommerce product archives from products gallery that is revealed on hover. Perfect for displaying front/back shots of clothing, bags, digital goods and other products.
 Author: Dictrithemes
-Tested up to: 6.6.2
+Tested up to: 6.7.1
 Author URI: https://dictrithemes.com
 Text Domain: wc-productswap
 Domain Path: /languages/
